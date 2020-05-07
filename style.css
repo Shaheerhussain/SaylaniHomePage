@@ -1,0 +1,301 @@
+
+*{
+    margin:0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+html ,body
+{
+    overflow-x: hidden;
+      width: 100%;
+}
+
+div.ide
+{
+    background-color:rgba(18, 76, 212, 0.904);
+    width: 100%;
+    height: 50px;
+    line-height: 10px;
+    text-align: center;
+}
+li{
+    padding: 15px;    
+    margin: 1px; 
+    display: inline;
+}
+li.abc{
+    margin-left: 120px;
+}
+.efg{
+    margin-left: -10px;
+}
+li.one{
+    margin-left: 100px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+
+
+img:hover{
+    background-color:skyblue;
+}
+
+div.center{
+    background-color: rgba(18, 76, 212, 0.904);
+    padding: 15px;
+    height: 10px;
+}
+
+li.full{
+    color: chartreuse;
+}
+
+li.catch{
+    color: darkblue;
+}
+li.paris{
+    color: white;
+}
+
+div.london{
+    background-color: gainsboro;
+}
+li.usa{
+    color: blueviolet;
+}
+
+li.german{
+    margin-left: -40px;
+    color: darkgreen;
+}
+p{
+    width: 1000px;
+    text-align: justify;
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.9;
+    color: #666666;
+    box-sizing: border-box;
+}
+
+div.london{
+    border-radius: circle;
+    background-color: white;
+}
+
+li.sat{
+    margin-right: 300px;
+    text-decoration: none;
+}
+
+div.friday{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    border-radius: circle;
+}
+div.mon{
+    width: 1666px;
+    background-color: whitesmoke;
+   padding: 10px;
+   display: flex;
+   height: 70px;;
+}
+li.sun:hover{
+
+    background-color: rgba(18, 76, 212, 0.904);
+}
+.pool{
+    margin-top: 25px;
+}
+
+.shah{
+    background-color:rgba(18, 76, 212, 0.904);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+}
+li.app
+{
+    margin-left: 170px;
+    color: white;
+}
+h1.jkl{
+    font-size: 80px;
+    margin-left: 60px;
+    color: white;
+}
+
+h2{
+    margin-left: 30px;
+    color: white;
+}
+
+ .maa{
+
+    margin-left: -550px;
+} 
+ .maaa{
+    margin-left: -550px;
+}
+.abb{
+    margin-left: -10px;
+}
+.abp{
+    margin-left: -50px;
+}
+.abo{
+    margin-left: -40px;
+}
+.jkb{
+    font-size: 80px;
+    font-family: initial;
+    margin-left: 120px;
+    color: white;    
+}
+.jkr{
+    font-size: 80px;
+    font-family: initial;
+    margin-left: 40px;
+    color: white; 
+}
+ 
+.map{
+    margin-left: -650px;
+} 
+
+.cat{
+    margin-top: -70px;
+    height: 90%;
+}
+.section{
+    margin-left: 150px;
+    width: 100%;
+    height: 480px;
+}
+.card{
+    border-radius: 10px;
+    margin: 20px;
+    float: left;
+    width: 400px;
+    height: 200px;
+   box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);  
+}
+
+.cardimg{
+    margin-top: 40px;
+}
+.cart{
+    margin: 20px;
+    float: left;
+    width: 500px;
+    height: 80px;
+    border: 1px solid rgba(0, 0, 0, 0.16);
+   box-shadow:  rgba(0, 0, 0, 0.16);
+   margin-top: 50px;    
+   background-color: lightgray;
+   margin-left: 30px;
+}
+.carti{
+    margin-top: -10px;
+}
+
+.tat{
+    border: 1px solid rgba(0, 0, 0, 0.16);
+    margin: 20px;
+    float: left;
+    width: 500px;
+    height: 80px;
+   box-shadow:  rgba(0, 0, 0, 0.16);    
+   background-color: lightgray;
+   margin-top: 50px;
+}
+
+.khi{
+    text-align: center;
+    margin-top: -50px;
+    margin-left: 800px;
+}
+.missioncard{
+    margin:20px;
+    float: left;
+    width: 500px;
+    height: 80px;
+    color: #316dc3;
+    text-align: center;
+    border: 1px solid rgba(0,0,0,0.16);
+    background-color: lightgray;
+}
+
+.imgmiss{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+imgtext{
+    width: 30%;
+    height: 300px;
+    color: gray;
+}
+
+.missioncard{
+    margin: 20px;
+    float: left;
+    width: 500px;
+    height: 80px;
+    color: #316dc3;
+    text-align: center;
+    border: 1px solid rgba(0,0,0,0.16);
+    background-color: lightgray;
+}
+
+.imgmiss{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+imgtext{
+    margin: 20px;
+    width: 30%;
+    height: 300px;
+    color: gray;
+}
+
+.upcoming{
+    margin-left: 1128px;
+     height: 400px; 
+     width: 330px;
+      background-color:white; 
+      overflow: scroll;
+      overflow-x: hidden;
+      color: whitesmoke;
+
+}
+/* @media only screen and (max-width:1200px){
+    body{
+        width: 1000px;
+    }
+}
+@media only screen and (max-width:1000px){
+    body{
+        width: 800px;
+    }
+}
+@media only screen and (max-width:800px){
+    body{
+        width: 600px;
+    }
+}
+@media only screen and (max-width:600px){
+    body{
+        width: 400px;
+    }
+}
+@media only screen and (max-width:400px){
+    body{
+        width: 200px;
+    }
+} */
